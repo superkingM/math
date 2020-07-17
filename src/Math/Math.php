@@ -23,4 +23,16 @@ class Math
     {
         return $a - $b;
     }
+
+    //两数相乘
+    public function mult($a, $b)
+    {
+        return $a * $b;
+    }
+
+    //两数相除
+    public function div($a, $b)
+    {
+        return $a/$b;
+    }
 }
