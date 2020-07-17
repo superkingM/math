@@ -1,11 +1,11 @@
 {
-    "name": "smallk/math",
+    "name": "superkingM/math",
     "description": "math test",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "smallk",
+            "name": "superkingM",
             "email": "396656156@qq.com"
         }
     ],
